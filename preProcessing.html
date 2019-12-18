@@ -1,0 +1,125 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </script>
+    <style type="text/css">
+      h5{
+        margin: 20px;
+      }
+
+    </style>
+  </head>
+  <body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Semantico</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="intro.html">Intro</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="datasetDescription.html">Dataset Description</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="preProcessing.html">Data Manipulation<span class="sr-only">(current)</span></a>
+      </li>
+     <li class="nav-item">
+        <a class="nav-link" href="index.html">Results</a>
+      </li>
+      
+     
+    </ul>
+  </div>
+</nav>	
+    <div class="container-fluid">  
+    	<h1 class="btn-info btn-lg">Pre-Processing</a></h1>
+      
+           <h5>We have used R studio to do all the pre processing.</h5>
+           <h5>After the initial preprocessing, which removes all the irrelevant columns and empty values in the dataset, we check all the pair wise correlations of all the data.</h5>
+           <h5>We also filtered out "District of Columbia" while querying since it is not a state.</h5>
+           <h5>We then select the attributes that are of interest.</h5>
+
+  <h1 class="btn-warning btn-lg">Correlation Matrix</h1>
+        <div class="row">  
+            <h5>Computed using R Studio:</h5>
+            <img src="coRelation.png" style="margin:auto;"> 
+        </div>
+        
+
+		<h1 class="btn-danger btn-lg">Data Conversion</a></h1>
+
+           <h5>All the preprocessed datasets are in csv format and is converted into turtle format using a custom java program.</h5>
+           <h5>The turtle files are then converted into rdf files using this online <a href="http://www.easyrdf.org/converter" target="_blank">tool</a>.</h5>
+           <h5>We also filtered out "District of Columbia" while querying since it is not a state.</h5>
+           <h5>We then select the attributes that are of interest.</h5>
+
+        <h1 class="btn-primary btn-lg">Semantic Strucutre of Data</a></h1>
+        <div class="row">  
+            <h5>This is how an instance of each of the dataset looks like in Gruff:</h5>
+          <img src="structure.png" style="margin:auto;"> 
+        </div>
+         
+         <h1 class="btn-dark btn-lg" style="background-color:#e75480">Data Federation</h1>
+               <h5>Created a custom SPARQL Endpoint using Apache Fuseki.</h5>
+           <h5>Fuseki server is running on our local machine and a dataset by the name of "semanticWebProject" is created. The 5 rdf dataset files are then uploaded into this custom sparql endpoint and is ready to be queried</h5>
+           <h5>Sample Queries:</h5>
+           <h5>1. For getting all values for each state:</h5>
+           <h5><pre>PREFIX edu:http://sematicWebProject.com/education/
+PREFIX hhc:http://sematicWebProject.com/homeHealthCare/
+PREFIX le:http://sematicWebProject.com/lifeExpectancy/
+PREFIX pov:http://sematicWebProject.com/poverty/
+PREFIX une:http://sematicWebProject.com/unemployment/
+SELECT ?stateName ?educationPer ?hhcRating ?lifeExpectancy ?povertyPer ?unempPer
+WHERE { 
+?iri1 edu:hasName ?stateName .
+?iri1 edu:hasEducationPer ?educationPer .
+
+?iri2 hhc:hasName ?stateName .
+?iri2 hhc:hasHomeHealthCareRating ?hhcRating .
+
+?iri3 le:hasName ?stateName .
+?iri3 le:hasLifeExpectancy ?lifeExpectancy .
+
+?iri4 pov:hasName ?stateName .
+?iri4 pov:hasPovertyPer ?povertyPer .
+
+?iri5 une:hasName ?stateName .
+?iri5 une:hasUnemploymentPer ?unempPer .
+FILTER NOT EXISTS {?iri1 ?y "District of Columbia"  }}</pre></h5> 
+          <h5>2. For Getting Min (Value & State), Avg, Max (Value & State) for life expectency:</h5>
+          <h5><pre>
+PREFIX edu:http://sematicWebProject.com/education/
+PREFIX hhc:http://sematicWebProject.com/homeHealthCare/
+PREFIX le:http://sematicWebProject.com/lifeExpectancy/
+PREFIX pov:http://sematicWebProject.com/poverty/
+PREFIX une:http://sematicWebProject.com/unemployment/
+SELECT ?minState ?min ?maxState ?max ?avg
+WHERE {
+?x le:hasLifeExpectancy ?min .
+?x le:hasName ?minState .  
+?y le:hasLifeExpectancy ?max .
+?y le:hasName ?maxState .
+
+{SELECT (MIN(?lifeExpectancy) AS ?min) (AVG(?lifeExpectancy) AS ?avg)  (MAX(?lifeExpectancy) AS ?max)
+WHERE{
+?iri1 edu:hasName ?stateName .
+?iri2 hhc:hasName ?stateName .
+?iri3 le:hasName ?stateName .
+?iri3 le:hasLifeExpectancy ?lifeExpectancy .
+?iri4 pov:hasName ?stateName .
+?iri5 une:hasName ?stateName .
+FILTER NOT EXISTS {?iri1 ?y "District of Columbia"  }
+}
+
+          </pre></h5>
+      
+    </div>
+    
+  </body>
+</html>

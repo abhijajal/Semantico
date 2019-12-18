@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </script>
+    <style type="text/css">
+      h5{
+        margin: 20px;
+      }
+    </style>
+  </head>
+  <body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Semantico</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="intro.html">Intro</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="datasetDescription.html">Dataset Description<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="preProcessing.html">Data Manipulation</a>
+      </li>
+     <li class="nav-item">
+        <a class="nav-link" href="index.html">Results</a>
+      </li>
+      
+     
+    </ul>
+  </div>
+</nav>	
+    <div class="container-fluid">  
+    	<h1 class="btn-info btn-lg"><a  style="color:white"  href="https://catalog.data.gov/dataset/u-s-life-expectancy-at-birth-by-state-and-census-tract-2017" target="_blank">Life Expectancy Dataset</a></h1>
+        <div class="row" >  
+           <h5>This dataset contains county-wise data of the life expectancy at birth along with it's
+                range and error, for the duration of 2010-2015.</h5>
+          <h5>Pre-Processing:
+          The county-wise data is converted into state-wise data in order to make it compatible
+          with the other datasets. This is done by finding the average of the count-wise values of each
+          state. The other columns are dropped.
+          </h5> 
+
+         </div>
+		<h1 class="btn-warning btn-lg"><a  style="color:black" href="https://catalog.data.gov/dataset/county-level-data-sets/resource/c098e7fa-c9bd-40c1-
+a1f4-d13486cbd9eb" target="_blank"> Education Dataset</a></h1>
+        <div class="row">  
+   <h5>This dataset contains state-wise college completion rates, in percentage, including that
+of total, rural and urban areas, for the years 1970, 1980, 1990, 2000 and 2013-2017.</h5>
+          <h5>Pre-Processing:
+We consider only the states and their corresponding total college completion rate for
+the years 2013-2017, and the rest of the columns are dropped.
+          </h5> 
+
+        </div>
+        <h1 class="btn-danger btn-lg"><a   style="color:white"  href="https://catalog.data.gov/dataset/home-health-care-state-by-state-data-5b494/resource/
+68058f90-ca0e-42fc-86c4-ddd6065c8cd9" target="_blank"> Home Health Care Dataset</a></h1>
+        <div class="row">  
+            <h5>This dataset contains state-wise data of various home health care statistics such as star
+rating, how often they got flu vaccines etc.,</h5>
+          <h5>Pre-Processing:
+          We consider only the state-wise star rating of patient care and the rest of the columns
+are dropped. The states were depicted using state abbreviations, which we manually changed
+to their respective state names in order to make it compatible with the other datasets.
+          </h5> 
+ </div>
+        <h1 class="btn-primary btn-lg"><a   style="color:white" href="https://catalog.data.gov/dataset/county-level-data-sets/resource/280dff75-cace-458abc4d-
+ff7c67a8366c" target="_blank"> Poverty Dataset</a></h1>
+        <div class="row">  
+            <h5>This dataset contains the poverty rates, in percentage, of all the states. It includes the
+state-wise poverty rates of the total population and that of the children population, along with
+the lower and upper bounds of the 90% confidence interval.</h5>
+          <h5>Pre-Processing:
+We consider only the states and their corresponding poverty rate of the total population
+and the rest of the columns are dropped.
+          </h5> 
+
+        </div>
+        <h1 class="btn-dark btn-lg" style="background-color:#e75480;"><a   style="color:white" href="https://catalog.data.gov/dataset/county-level-data-sets/resource/6117e794-f5f6-47b0-
+90d1-ab32272595b1" target="_blank">Unemployment Dataset</a></h1>
+        <div class="row">  
+             <h5>This dataset contains state-wise unemployment rate, in percentage, from 2010 to 2018
+and also the median household income.</h5>
+          <h5>Pre-Processing:
+We consider only the states and their corresponding unemployment for the year 2015,
+and the rest of the columns are dropped.
+          </h5> 
+
+        </div>
+         
+    </div>
+    
+  </body>
+</html>
