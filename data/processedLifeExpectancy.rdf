@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://www.usState.com/">
+
+  <rdf:Description rdf:about="http://www.usState.com/#1">
+    <ns0:hasStateCode>AL</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>74.81</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#2">
+    <ns0:hasStateCode>AK</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.91</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#3">
+    <ns0:hasStateCode>AZ</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.37</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#4">
+    <ns0:hasStateCode>AR</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.63</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#5">
+    <ns0:hasStateCode>CA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>80.23</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#6">
+    <ns0:hasStateCode>CO</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.47</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#7">
+    <ns0:hasStateCode>CT</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>80.1</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#8">
+    <ns0:hasStateCode>DE</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>77.8</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#9">
+    <ns0:hasStateCode>DC</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>76.42</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#10">
+    <ns0:hasStateCode>FL</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.38</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#11">
+    <ns0:hasStateCode>GA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>76.62</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#12">
+    <ns0:hasStateCode>HI</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>81.32</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#13">
+    <ns0:hasStateCode>ID</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.09</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#14">
+    <ns0:hasStateCode>IL</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.17</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#15">
+    <ns0:hasStateCode>IN</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>76.77</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#16">
+    <ns0:hasStateCode>IA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.06</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#17">
+    <ns0:hasStateCode>KS</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.05</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#18">
+    <ns0:hasStateCode>KY</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.56</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#19">
+    <ns0:hasStateCode>LA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.37</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#20">
+    <ns0:hasStateCode>ME</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#21">
+    <ns0:hasStateCode>MD</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.7</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#22">
+    <ns0:hasStateCode>MA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>80.34</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#23">
+    <ns0:hasStateCode>MI</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>77.34</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#24">
+    <ns0:hasStateCode>MN</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>80.47</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#25">
+    <ns0:hasStateCode>MS</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.03</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#26">
+    <ns0:hasStateCode>MO</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>76.96</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#27">
+    <ns0:hasStateCode>MT</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.82</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#28">
+    <ns0:hasStateCode>NE</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.03</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#29">
+    <ns0:hasStateCode>NV</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>77.55</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#30">
+    <ns0:hasStateCode>NH</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.96</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#31">
+    <ns0:hasStateCode>NJ</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.59</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#32">
+    <ns0:hasStateCode>NM</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.55</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#33">
+    <ns0:hasStateCode>NY</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>80.33</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#34">
+    <ns0:hasStateCode>NC</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>77.4</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#35">
+    <ns0:hasStateCode>ND</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.4</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#36">
+    <ns0:hasStateCode>OH</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>76.57</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#37">
+    <ns0:hasStateCode>OK</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.87</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#38">
+    <ns0:hasStateCode>OR</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.09</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#39">
+    <ns0:hasStateCode>PA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.06</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#40">
+    <ns0:hasStateCode>RI</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.09</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#41">
+    <ns0:hasStateCode>SC</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>76.56</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#42">
+    <ns0:hasStateCode>SD</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.79</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#43">
+    <ns0:hasStateCode>TN</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.53</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#44">
+    <ns0:hasStateCode>TX</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>77.86</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#45">
+    <ns0:hasStateCode>UT</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.37</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#46">
+    <ns0:hasStateCode>VT</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>81.02</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#47">
+    <ns0:hasStateCode>VA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>78.33</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#48">
+    <ns0:hasStateCode>WA</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.68</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#49">
+    <ns0:hasStateCode>WV</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>75.69</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#50">
+    <ns0:hasStateCode>WI</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>79.6</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.usState.com/#51">
+    <ns0:hasStateCode>WY</ns0:hasStateCode>
+    <ns0:stateLifeExpectency>80.15</ns0:stateLifeExpectency>
+  </rdf:Description>
+
+</rdf:RDF>

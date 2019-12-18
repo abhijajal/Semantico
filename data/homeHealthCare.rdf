@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://sematicWebProject.com/homeHealthCare/">
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#1">
+    <ns0:hasName>Minnesota</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#2">
+    <ns0:hasName>Vermont</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#3">
+    <ns0:hasName>Missouri</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#4">
+    <ns0:hasName>Rhode Island</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#5">
+    <ns0:hasName>Massachusetts</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#6">
+    <ns0:hasName>Kentucky</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#7">
+    <ns0:hasName>Delaware</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#8">
+    <ns0:hasName>New Hampshire</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#9">
+    <ns0:hasName>South Carolina</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#10">
+    <ns0:hasName>Louisiana</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#11">
+    <ns0:hasName>New Mexico</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#12">
+    <ns0:hasName>Virginia</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#13">
+    <ns0:hasName>North Carolina</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#14">
+    <ns0:hasName>Colorado</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#15">
+    <ns0:hasName>Maryland</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#16">
+    <ns0:hasName>West Virginia</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#17">
+    <ns0:hasName>New Jersey</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#18">
+    <ns0:hasName>Oregon</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#19">
+    <ns0:hasName>California</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#20">
+    <ns0:hasName>Idaho</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#21">
+    <ns0:hasName>Iowa</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#22">
+    <ns0:hasName>Connecticut</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#23">
+    <ns0:hasName>Wisconsin</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#24">
+    <ns0:hasName>Nebraska</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#25">
+    <ns0:hasName>New York</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#26">
+    <ns0:hasName>Montana</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#27">
+    <ns0:hasName>Nevada</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#28">
+    <ns0:hasName>Ohio</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#29">
+    <ns0:hasName>District of Columbia</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#30">
+    <ns0:hasName>Alaska</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#31">
+    <ns0:hasName>Indiana</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#32">
+    <ns0:hasName>Wyoming</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#33">
+    <ns0:hasName>Georgia</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#34">
+    <ns0:hasName>Oklahoma</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#35">
+    <ns0:hasName>South Dakota</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#36">
+    <ns0:hasName>Florida</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#37">
+    <ns0:hasName>Texas</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#38">
+    <ns0:hasName>North Dakota</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#39">
+    <ns0:hasName>Kansas</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#40">
+    <ns0:hasName>Washington</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#41">
+    <ns0:hasName>Arizona</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#42">
+    <ns0:hasName>Arkansas</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#43">
+    <ns0:hasName>Alabama</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#44">
+    <ns0:hasName>Illinois</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#45">
+    <ns0:hasName>Michigan</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#46">
+    <ns0:hasName>Tennessee</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#47">
+    <ns0:hasName>Maine</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#48">
+    <ns0:hasName>Utah</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#49">
+    <ns0:hasName>Hawaii</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#50">
+    <ns0:hasName>Pennsylvania</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.5</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/homeHealthCare/state#51">
+    <ns0:hasName>Mississippi</ns0:hasName>
+    <ns0:hasHomeHealthCareRating rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns0:hasHomeHealthCareRating>
+  </rdf:Description>
+
+</rdf:RDF>

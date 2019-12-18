@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://sematicWebProject.com/unemployment/">
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#1">
+    <ns0:hasName>Alabama</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.1</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#2">
+    <ns0:hasName>Alaska</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.5</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#3">
+    <ns0:hasName>Arizona</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.1</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#4">
+    <ns0:hasName>Arkansas</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#5">
+    <ns0:hasName>California</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.2</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#6">
+    <ns0:hasName>Colorado</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.9</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#7">
+    <ns0:hasName>Connecticut</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.7</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#8">
+    <ns0:hasName>Delaware</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.9</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#9">
+    <ns0:hasName>District of Columbia</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.9</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#10">
+    <ns0:hasName>Florida</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.5</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#11">
+    <ns0:hasName>Georgia</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#12">
+    <ns0:hasName>Hawaii</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#13">
+    <ns0:hasName>Idaho</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.2</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#14">
+    <ns0:hasName>Illinois</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#15">
+    <ns0:hasName>Indiana</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.8</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#16">
+    <ns0:hasName>Iowa</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.8</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#17">
+    <ns0:hasName>Kansas</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.2</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#18">
+    <ns0:hasName>Kentucky</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.3</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#19">
+    <ns0:hasName>Louisiana</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.3</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#20">
+    <ns0:hasName>Maine</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.4</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#21">
+    <ns0:hasName>Maryland</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.1</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#22">
+    <ns0:hasName>Massachusetts</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.8</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#23">
+    <ns0:hasName>Michigan</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.4</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#24">
+    <ns0:hasName>Minnesota</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.7</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#25">
+    <ns0:hasName>Mississippi</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.4</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#26">
+    <ns0:hasName>Missouri</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#27">
+    <ns0:hasName>Montana</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.2</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#28">
+    <ns0:hasName>Nebraska</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#29">
+    <ns0:hasName>Nevada</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.8</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#30">
+    <ns0:hasName>New Hampshire</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.4</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#31">
+    <ns0:hasName>New Jersey</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.8</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#32">
+    <ns0:hasName>New Mexico</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.5</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#33">
+    <ns0:hasName>New York</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.3</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#34">
+    <ns0:hasName>North Carolina</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.7</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#35">
+    <ns0:hasName>North Dakota</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2.8</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#36">
+    <ns0:hasName>Ohio</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.9</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#37">
+    <ns0:hasName>Oklahoma</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.4</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#38">
+    <ns0:hasName>Oregon</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#39">
+    <ns0:hasName>Pennsylvania</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.3</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#40">
+    <ns0:hasName>Rhode Island</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#41">
+    <ns0:hasName>South Carolina</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#42">
+    <ns0:hasName>South Dakota</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.1</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#43">
+    <ns0:hasName>Tennessee</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#44">
+    <ns0:hasName>Texas</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.4</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#45">
+    <ns0:hasName>Utah</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#46">
+    <ns0:hasName>Vermont</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#47">
+    <ns0:hasName>Virginia</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.5</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#48">
+    <ns0:hasName>Washington</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#49">
+    <ns0:hasName>West Virginia</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.7</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#50">
+    <ns0:hasName>Wisconsin</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.6</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#51">
+    <ns0:hasName>Wyoming</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4.3</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sematicWebProject.com/unemployment/state#52">
+    <ns0:hasName>Puerto Rico</ns0:hasName>
+    <ns0:hasUnemploymentPer rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns0:hasUnemploymentPer>
+  </rdf:Description>
+
+</rdf:RDF>
